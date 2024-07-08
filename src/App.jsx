@@ -5,7 +5,7 @@ import "./App.css";
 const App = () => {
   return (
     <div className="App">
-      <h1>Finance Dashboard</h1>
+      <h1>My Finance Dashboard</h1>
       <StockForm />
     </div>
   );
