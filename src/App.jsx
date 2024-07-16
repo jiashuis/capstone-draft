@@ -1,5 +1,5 @@
 import React from "react";
-import StockForm from "./components/StockInput";
+import StockForm from "./components/StockForm.jsx";
 import "./App.css";
 
 const App = () => {
